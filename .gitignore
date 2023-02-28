@@ -17,3 +17,5 @@ _out
 .che/
 .gen/
 .DS_Store
+roles.roledefault
+sa-cicd.yaml
