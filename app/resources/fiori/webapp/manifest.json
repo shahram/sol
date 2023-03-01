@@ -1,5 +1,5 @@
 {
-    "_version": "",
+    "_version": "1.10.0",
     "sap.app": {
         "id": "sol-fiori",
         "type": "application",
